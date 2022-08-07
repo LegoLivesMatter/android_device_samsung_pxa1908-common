@@ -45,7 +45,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += libstlport 
 
-#PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
     camera.stock \
     camera.mrvl \
     camera_client
