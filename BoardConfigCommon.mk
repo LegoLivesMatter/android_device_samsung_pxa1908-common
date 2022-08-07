@@ -57,6 +57,9 @@ BOARD_USE_VIVANTE_GRALLOC := true
 HDMI_SUPPORT_3D := true
 BOARD_ENABLE_OVERLAY := true
 
+# Bluetooth
+BOARD_HAVE_BLUETOOTH_MRVL := true
+
 # Enable Marvell interface in SurfaceFlinger
 #MRVL_INTERFACE_ANIMATION := true
 # Launch DMS in SurfaceFlinger process
